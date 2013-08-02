@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MsgCenter", "MsgCenter\MsgCenter.vcproj", "{8BFC9EFC-6A3F-4CE6-BA31-197DEC8C2236}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MsgCenterDemo", "MsgCenterDemo\MsgCenterDemo.vcproj", "{7FDF084A-D3AF-4BA0-8B62-A626E3FFC517}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BFC9EFC-6A3F-4CE6-BA31-197DEC8C2236}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8BFC9EFC-6A3F-4CE6-BA31-197DEC8C2236}.Debug|Win32.Build.0 = Debug|Win32
+		{8BFC9EFC-6A3F-4CE6-BA31-197DEC8C2236}.Release|Win32.ActiveCfg = Release|Win32
+		{8BFC9EFC-6A3F-4CE6-BA31-197DEC8C2236}.Release|Win32.Build.0 = Release|Win32
+		{7FDF084A-D3AF-4BA0-8B62-A626E3FFC517}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7FDF084A-D3AF-4BA0-8B62-A626E3FFC517}.Debug|Win32.Build.0 = Debug|Win32
+		{7FDF084A-D3AF-4BA0-8B62-A626E3FFC517}.Release|Win32.ActiveCfg = Release|Win32
+		{7FDF084A-D3AF-4BA0-8B62-A626E3FFC517}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
